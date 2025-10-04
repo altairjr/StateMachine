@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System;
 
-namespace StateMachine
+namespace Shared.StateMachine
 {
     /// <summary>
     /// Base class for defining a state with transitions and behavior hooks.
