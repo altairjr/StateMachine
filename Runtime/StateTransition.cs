@@ -1,6 +1,6 @@
 using System;
 
-namespace SharedScripts.StateMachine
+namespace StateMachine
 {
     /// <summary>
     /// Represents a transition from one state to another, triggered by a condition.

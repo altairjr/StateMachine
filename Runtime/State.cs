@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System;
 
-namespace SharedScripts.StateMachine
+namespace StateMachine
 {
     /// <summary>
     /// A generic state machine that manages states and transitions between them.
