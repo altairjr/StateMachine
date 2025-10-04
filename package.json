@@ -9,8 +9,5 @@
     "name": "Altair Pereira Machado Junior",
     "email": "altairpereira35@gmail.com",
     "url": "https://www.linkedin.com/in/altairmachado"
-  },
-  "dependencies": {
-  "com.github.altairjr.statemachine": "https://github.com/altairjr/StateMachine.git"
-}
+  }
 }
