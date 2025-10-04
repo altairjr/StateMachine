@@ -1,13 +1,16 @@
 {
-  "name": "com.SharedScripts.StateMachine",
-  "displayName": "StateMachine",
+  "name": "com.github.altairjr.statemachine",
+  "displayName": "State Machine",
   "version": "0.0.1",
   "unity": "2022.3",
-  "description": "",
-  "keywords": ["Script"],
+  "description": "A simple finite state machine implementation for Unity projects.",
+  "keywords": ["state", "machine", "fsm", "ai"],
   "author": {
     "name": "Altair Pereira Machado Junior",
     "email": "altairpereira35@gmail.com",
-    "url": "www.linkedin.com/in/altairmachado"
-  }
+    "url": "https://www.linkedin.com/in/altairmachado"
+  },
+  "dependencies": {
+  "com.github.altairjr.statemachine": "https://github.com/altairjr/StateMachine.git"
+}
 }
